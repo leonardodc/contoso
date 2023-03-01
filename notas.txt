@@ -6,3 +6,10 @@ export FLASK_ENV=development
 
 
 flask run
+
+pip install -r requirements.txt
+
+KEY=your_key
+ENDPOINT=your_endpoint
+LOCATION=your_location
+
