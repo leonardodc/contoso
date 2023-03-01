@@ -13,3 +13,8 @@ KEY=your_key
 ENDPOINT=your_endpoint
 LOCATION=your_location
 
+================================
+
+unittest
+$ python test_assertions.py
+$ python -m unittest
